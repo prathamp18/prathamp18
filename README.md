@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 I am a Computer Science student at York University with a passion for software development and problem-solving. I have hands-on experience in building web applications, including a Currency Calculator and a stock trading platform, utilizing technologies such as HTML, CSS, JavaScript, and Node.js.<br><br>I am proficient in languages like Java, SQL, Python, C, and C++, which I apply in various projects to develop efficient solutions. Currently, I work in risk management at IKEA Canada, where I use my analytical skills to improve operational processes, enhancing my attention to detail and ability to thrive in dynamic environments.<br><br>I am eager to apply my technical skills and looking for a software development internship for 2025, where I can contribute to innovative projects and continue to grow as a developer. 
 
 
