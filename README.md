@@ -1,6 +1,32 @@
-# 💫 About Me: 
-I am a Computer Science student at York University with a passion for software development and problem-solving. I have hands-on experience in building web applications, including a Currency Calculator and a stock trading platform, utilizing technologies such as HTML, CSS, JavaScript, and Node.js.<br><br>I am proficient in languages like Java, SQL, Python, MongoDB C, and C++, which I apply in various projects to develop efficient solutions. Currently, I work in risk management at IKEA Canada, where I use my analytical skills to improve operational processes, enhancing my attention to detail and ability to thrive in dynamic environments.<br><br>I am eager to apply my technical skills and looking for a software development internship for 2025, where I can contribute to innovative projects and continue to grow as a developer. 
+# 👋 Hi there! I’m Pratham, a Computer Science Student @ York University
+Passionate about building solutions that bridge code and real-world impact.
 
+## 🚀 What I’m up to:
+
+🔧 Crafting full-stack apps with JavaScript, Node.js, React, and REST APIs
+
+🐍 Solving problems with Python, Java, and C++
+
+📊 Designing efficient databases using MySQL, MongoDB, and PostgreSQL
+
+🛠️ Exploring cloud platforms and automation tools
+
+## 🌟 Featured Projects
+- 911 Emergency Dispatcher | Python, MySQL
+
+CLI system with real-time incident tracking and automated responder allocation.
+
+- Currency Exchange Calculator | JavaScript, REST APIs
+
+Real-time rate converter with dynamic UI and cross-device compatibility.
+
+- Trading Buddy | Node.js, HTML/CSS
+
+Full-stack stock platform with secure auth, live news, and community features.
+
+- Snake Game | Python, Tkinter
+
+Classic arcade game with collision detection and score tracking.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pratham-patel18) 
