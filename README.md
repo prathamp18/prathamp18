@@ -12,21 +12,21 @@ Passionate about building solutions that bridge code and real-world impact.
 🛠️ Exploring cloud platforms and automation tools
 
 ## 🌟 Featured Projects
-- 911 Emergency Dispatcher | Python, MySQL
 
-CLI system with real-time incident tracking and automated responder allocation.
+- **911 Emergency Dispatcher** | Python, MySQL  
+  A command-line system for real-time incident tracking and automated responder allocation, simulating a live dispatcher environment.
 
-- Currency Exchange Calculator | JavaScript, REST APIs
+- **Currency Exchange Calculator** | JavaScript, REST APIs  
+  A dynamic currency converter using real-time exchange rates, with a responsive and user-friendly interface.
 
-Real-time rate converter with dynamic UI and cross-device compatibility.
+- **AI Poem Generator** | Python, OpenAI API  
+  A tool that generates creative poems based on user-defined themes, showcasing AI's capabilities in creative writing.
 
-- Trading Buddy | Node.js, HTML/CSS
+- **Trading Buddy** | Node.js, HTML/CSS  
+  A full-stack stock trading platform with secure authentication, live news integration, and community features.
 
-Full-stack stock platform with secure auth, live news, and community features.
-
-- Snake Game | Python, Tkinter
-
-Classic arcade game with collision detection and score tracking.
+- **Snake Game** | Python, Tkinter  
+  A classic arcade-style game with collision detection and score tracking, built for fun and learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-patel18) 
