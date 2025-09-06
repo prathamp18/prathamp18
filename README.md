@@ -1,6 +1,5 @@
 # Pratham Patel
 
-📍 **Toronto, ON** | 📞 +1 (226) 752-4218 | ✉️ patelpratham1218@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/pratham-patel18) | 🔗 [GitHub](https://github.com/prathamp18)
 
 ---
