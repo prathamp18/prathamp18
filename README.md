@@ -1,32 +1,78 @@
-# 👋 Hi there! I’m Pratham, a Computer Science Student @ York University
-Passionate about building solutions that bridge code and real-world impact.
+# Pratham Patel
 
-## 🚀 What I’m up to:
+📍 **Toronto, ON** | 📞 +1 (226) 752-4218 | ✉️ patelpratham1218@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/pratham-patel18) | 🔗 [GitHub](https://github.com/prathamp18)
 
-🔧 Crafting full-stack apps with JavaScript, Node.js, React, and REST APIs
+---
 
-🐍 Solving problems with Python, Java, and C++
+## 🚀 About Me
 
-📊 Designing efficient databases using MySQL, MongoDB, and PostgreSQL
+I’m a **Computer Science student** at **York University**, passionate about creating impactful software solutions that bridge the gap between code and real-world problems. I enjoy building applications that enhance user experience, improve efficiency, and solve complex problems. Whether working on full-stack applications, machine learning models, or system optimization, I am committed to continuous learning and development.
 
-🛠️ Exploring cloud platforms and automation tools
+---
+
+## 🔧 Skills & Technologies
+
+**Languages:**  
+Java, Python, C/C++, JavaScript, TypeScript, Bash
+
+**Web & App Development:**  
+HTML, CSS, React.js, Node.js, Express.js, Flask, FastAPI, Spring Boot, TailwindCSS, REST APIs, jQuery
+
+**Databases:**  
+MySQL, PostgreSQL, MongoDB
+
+**Machine Learning & Data Science:**  
+NumPy, Pandas, TensorFlow, Scikit-learn, LSTM, NLP, spaCy
+
+**Cloud & DevOps:**  
+AWS, GCP, Docker, Kubernetes, CI/CD
+
+**Tools & Environments:**  
+Git, GitHub, JUnit, VS Code, IntelliJ, PyCharm, Eclipse, Excel, Power BI, SharePoint, MS Office 365
+
+**Other:**  
+RISC-V, Verilog, Assembly, Agile methodologies, Unit Testing, API Integration, Scalability
+
+---
+
+## 🛠️ What I'm Working On
+
+- **Full-Stack Web Development:** Building dynamic and responsive apps using **React.js**, **Node.js**, and **MySQL**.
+- **AI & Machine Learning Projects:** Developing predictive models using **TensorFlow** and **scikit-learn** for stock price prediction, and natural language processing (NLP) for resume matching.
+- **Cloud and DevOps:** Learning and deploying cloud solutions with **AWS** and **GCP** to ensure scalability and reliability.
+- **Optimizing Software Performance:** Working on algorithms and backend performance improvements using **Redis** and **RESTful APIs**.
+
+---
 
 ## 🌟 Featured Projects
 
-- **911 Emergency Dispatcher** | Python, MySQL  
-  A command-line system for real-time incident tracking and automated responder allocation, simulating a live dispatcher environment.
+### **Smart Resume Analyzer**  
+*Aug 2025 - Present*  
+**Tech:** FastAPI, Python, React.js, spaCy, TailwindCSS  
+- Built a full-stack web app that automates the process of resume matching with job descriptions, improving efficiency for job seekers.
+- Developed APIs for resume parsing, keyword extraction, and scoring using **spaCy** and PDF parsing libraries.
+- Integrated **React.js** frontend with **Python** backend services for a smooth user experience.
 
-- **Currency Exchange Calculator** | JavaScript, REST APIs  
-  A dynamic currency converter using real-time exchange rates, with a responsive and user-friendly interface.
+### **VoiceDebugger**  
+*May 2025 - Present*  
+**Tech:** Python, Speech Recognition, pyttsx3  
+- Designing an AI-driven debugging tool that allows developers to resolve issues through voice commands.
+- Achieved 60% increased accuracy compared to traditional text-based debugging methods.
 
-- **AI Poem Generator** | Python, OpenAI API  
-  A tool that generates creative poems based on user-defined themes, showcasing AI's capabilities in creative writing.
+### **Quick Route**  
+*Dec 2024 - Jan 2025*  
+**Tech:** Dijkstra’s Algorithm, Google Maps API, GCP  
+- Developed a real-time route optimization engine to improve computation time by 30%.
+- Utilized **Google Maps API** for geospatial visualization and **GCP** for scalable cloud deployment.
 
-- **Trading Buddy** | Node.js, HTML/CSS  
-  A full-stack stock trading platform with secure authentication, live news integration, and community features.
+### **Stock Price Prediction Model**  
+*Oct 2024 - Dec 2024*  
+**Tech:** Python, TensorFlow, Keras, yfinance, Pandas  
+- Developed an LSTM-based model to predict stock prices with over 50% accuracy.
+- Used **yfinance** to fetch stock data and **Pandas** for data preprocessing.
 
-- **Snake Game** | Python, Tkinter  
-  A classic arcade-style game with collision detection and score tracking, built for fun and learning.
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-patel18) 
