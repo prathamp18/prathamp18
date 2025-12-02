@@ -56,7 +56,7 @@ RISC-V, Verilog, Assembly, Agile methodologies, Unit Testing, API Integration, S
 
 ---
 
-### 🔐 **Credit Card Fraud Detection System**  
+### 🔐 **Credit Card Fraud Detection Model**  
 *Tech: Python, NumPy, Pandas, Scikit-learn*  
 - Implemented **Logistic Regression from scratch** using gradient descent and sigmoid activation, achieving **79% precision (F1: 0.45)** on **284K highly imbalanced transactions (0.2% fraud)**.  
 - Engineered full preprocessing pipeline (deduplication, stratified sampling, imputation, min-max + z-score scaling).  
