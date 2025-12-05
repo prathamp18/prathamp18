@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a **Computer Science student at York University**, passionate about building high-impact software systems that combine **algorithms, AI/ML, backend engineering, and cloud-native development**.  
+I’m a **Computer Science student at York University**, passionate about building high-impact software systems that combine **algorithms, AI/ML, backend engineering, automation and cloud-native development**.  
 I specialize in developing **full-stack applications**, **machine learning models implemented from scratch**, and **real-time geospatial systems** such as aviation routing engines.  
 I enjoy transforming complex technical ideas into scalable, production-ready solutions that create real-world value.
 
@@ -22,6 +22,9 @@ HTML, CSS, React.js, Node.js, Express.js, Flask, FastAPI, Spring Boot, TailwindC
 
 **Databases:**  
 MySQL, PostgreSQL, MongoDB
+
+**Testing**
+Selenium, Postman, Playwright
 
 **Machine Learning & Data Science:**  
 NumPy, Pandas, TensorFlow, Scikit-learn, LSTM, NLP, spaCy, Shapely, GeoPy
