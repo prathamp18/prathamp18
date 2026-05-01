@@ -1,6 +1,6 @@
 # Pratham Patel
 
-🔗 [LinkedIn](https://linkedin.com/in/pratham-patel18) | 🔗 [GitHub](https://github.com/prathamp18) 🔗 [Portfolio]([https://github.com/prathamp18](https://prathamp18.github.io/pratham-portfolio))
+🔗 [LinkedIn](https://linkedin.com/in/pratham-patel18) | 🔗 [GitHub](https://github.com/prathamp18) 🔗 [Portfolio](https://prathamp18.github.io/pratham-portfolio)
 
 ---
 
