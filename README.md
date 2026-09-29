@@ -2,7 +2,7 @@
 
 **Software Engineer Intern @ Aviva Canada | CS @ York University '27**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-blue?style=for-the-badge&logo=react)](https://prathamp18.github.io/pratham-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-blue?style=for-the-badge&logo=react)](https://prathamp18.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pratham-patel18)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:pdp1812@yorku.ca.com)
 
