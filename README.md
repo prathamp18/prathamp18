@@ -20,6 +20,7 @@ const pratham = {
   openTo:     "Winter 2027 internships · new-grad full-time, Summer 2027",
   thesis:     "Calling an LLM is easy. Making it reliable is the job.",
   languages:  ["English", "Gujarati", "Hindi"],
+  now:        "Building DetourTO — a disruption-aware TTC trip-planning agent",
 } as const;
 ```
 
@@ -38,6 +39,24 @@ What I shipped at **Aviva Canada** (AI & Automation, Jan – Aug 2026) and **Tou
 | ✈️ | **TourWalk booking platform** | Node.js REST APIs + Redis cache for real-time travel queries; React/Redux booking flow; JWT on every payment endpoint | **+30%** throughput · **+15%** conversion | Node.js · Redis · React · JWT |
 
 <sub>Also: Unit Business Risk & Compliance at IKEA (Nov 2023 – present) — 5+ automated compliance workflows, Power BI risk-KPI dashboards.</sub>
+
+---
+
+## 🚇 Now building: [DetourTO](https://github.com/prathamp18/EECS3311-DetourTO)
+
+<a href="https://github.com/prathamp18/EECS3311-DetourTO"><img src="assets/transit.svg" alt="DetourTO: a subway line closes, the agent re-plans around it and the Java planner verifies the new trip" width="100%"/></a>
+
+**A disruption-aware TTC trip-planning agent** · EECS 3311 Software Design, York University · Fall 2026 · `Stage 1: design complete`
+
+You describe a trip in plain English — *"York U by 10, no streetcars, step-free please"*. A deterministic Java planner (**RAPTOR**) computes real itineraries from the TTC's published GTFS schedule. An LLM agent (**Claude on Amazon Bedrock**, Converse API tool use) reads free-text service alerts, re-plans around closures, explains the trade-offs, remembers your places, and watches an active trip so it can warn you *before* a disruption ruins it.
+
+**The rule:** the agent proposes, the Java code verifies. Every stop, route, time and itinerary a rider sees is computed by the planner and checked by a `GroundingValidator` — never taken from model text.
+
+| Design | Build (Stage 2) | Test (Stage 3) |
+|---|---|---|
+| 13 feature specs · 8 GoF patterns (Facade, Observer, Command, State, Template Method, Strategy, Adapter, Decorator) · 19 use cases · 11 sequence diagrams | Java 21 · JavaFX + Leaflet map · picocli CLI (`--json`) · GTFS-Realtime · SQLite · AWS SDK v2 | JUnit 5 · Mockito · AssertJ · KUMA agent-behaviour tests |
+
+**[📐 Read the Stage 1 design report →](https://github.com/prathamp18/EECS3311-DetourTO/blob/main/docs/DetourTO-Stage1-Design-Report.md)**
 
 ---
 
@@ -128,11 +147,12 @@ That's the whole update rule: `w -= α * X.T @ (p - y) / n`. Stratified sampling
 
 ```diff
 @ 2027-05  Graduating: B.Sc. (Hons) Computer Science, York University (Lassonde)
++ 2026-09  DetourTO Stage 1: design complete — 13 features, 8 design patterns, 11 sequence diagrams
 + 2026-09  Launched portfolio v2 — Next.js + Three.js, live A* and logistic-regression demos
 + 2026-08  Wrapped Aviva: −80% test authoring, 90% intent accuracy, −40% quote time, 200+ tests automated
 + 2026-01  Joined Aviva Canada — Software Engineer Intern, AI & Automation
 + 2025-08  Shipped TourWalk: Redis caching (+30% throughput), React/Redux flow (+15% conversion)
-! 2023-11  IKEA Risk & Compliance — automation, Power BI, how real operations break
++ 2023-11  IKEA Risk & Compliance — automation, Power BI, how real operations break
 + 2022-09  Started CS at York · Lassonde Entrance Scholarship
 ```
 
