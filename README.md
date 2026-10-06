@@ -20,7 +20,7 @@ const pratham = {
   openTo:     "Winter 2027 internships · new-grad full-time, Summer 2027",
   thesis:     "Calling an LLM is easy. Making it reliable is the job.",
   languages:  ["English", "Gujarati", "Hindi"],
-  now:        "Building DetourTO — a disruption-aware TTC trip-planning agent",
+  now:        "Building DetourTO - a disruption-aware TTC trip-planning agent",
 } as const;
 ```
 
